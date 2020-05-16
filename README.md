@@ -20,4 +20,4 @@ GETTING STARTED
 •	Install newsAPI using pip install 
 
 
-•	also 
+
